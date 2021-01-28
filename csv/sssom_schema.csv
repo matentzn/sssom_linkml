@@ -1,0 +1,5 @@
+id,mappings,description
+entity,,"Represents any entity that can be mapped, such as an OWL class or SKOS concept"
+mapping,,Represents an individual mapping between a pair of entities
+mapping_set,,Represents a set of mappings
+
